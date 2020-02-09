@@ -21,6 +21,7 @@ Hope you know from the previous articles what each tag denotes and how to get st
 Here you will need 3 files:
 
 1 Python file: bot.py
+
 2 aiml file: learningFileList.aiml, and conversation.aiml
 
 Data folder contains all the AIML files
