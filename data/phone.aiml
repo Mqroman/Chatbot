@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+ <category>
+        <pattern>cancer2</pattern>
+        <template>
+            yesyeys
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHAT ARE YOU</pattern>
+        <template>
+            I'm a bot, silly!
+        </template>
+    </category>
+    
+</aiml>
+
