@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+
+<category>
+	<pattern>ce cod este r33</pattern>
+	<template>r33 este un cod rau</template>
+</category>
+
+
+<category>
+	<pattern>who is trump</pattern>
+	<template>a president</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>who is trump</pattern>
+	<template>cichicean</template>
+</category>
+
+<category>
+	<pattern>sa incarca cartela</pattern>
+	<template>nu</template>
+</category>
+
+<category>
+	<pattern>what is radu ?</pattern>
+	<template>a stupid man</template>
+</category>
+</aiml>
